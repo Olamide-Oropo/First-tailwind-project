@@ -1,0 +1,13 @@
+{
+  "name": "first-tailwind-project",
+  "version": "1.0.0",
+  "description": "My first TailwindCss project",
+  "main": "index.js",
+  "scripts": {
+    "build-styles": "npx tailwindcss -i ./src/styles.css -o ./public/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "t
